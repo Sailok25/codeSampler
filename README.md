@@ -25,10 +25,14 @@
 3. Lenguaje de programación
     * JAVA
     * Python
+<br>
+<br>
+<br>
 
 <p align="center">
   <img src="img_readme/lenguajedemarcas.png" alt="Lenguaje de Marcas">
 </p>
+<hr>
 
 <br>
 
@@ -60,10 +64,16 @@
     * [Tablas 03](https://github.com/Sailok25/HTML/blob/main/Ejercicio14.html)
 
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <p align="center">
   <img src="img_readme/lenguajedeestilos.png" alt="Lenguaje de Estilos">
 </p>
+<hr>
 
 <br>
 
@@ -97,10 +107,16 @@
     * [Maquetación diseño adaptable 02](https://github.com/Sailok25/HTML/blob/main/Ejercicio19.html)
 
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <p align="center">
   <img src="img_readme/lenguajedeprogramacion.png" alt="Lenguaje de Programación">
 </p>
+<hr>
 
 <br>
 
@@ -144,6 +160,11 @@
     * [Exercici 8-13](...)
     * [Nota](https://github.com/Sailok25/JAVA/blob/main/examen/exercicis/src/nota.java)
 
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 
 <p align="left">
