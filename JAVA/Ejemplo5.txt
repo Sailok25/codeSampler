@@ -1,0 +1,47 @@
+En Java, "while" y "for" son dos tipos de bucles que se utilizan para repetir un bloque de código varias veces, 
+pero se utilizan en diferentes situaciones y tienen diferencias en su estructura y uso.
+
+---------------
+| Bucle while |
+---------------
+La estructura básica de un bucle "while" es la siguiente:
+
+while (condición) {
+    // Código a repetir
+}
+
+
+- En un bucle "while, se evalúa primero la condición. Si la condición es verdadera (true), el código dentro del bucle se ejecuta. 
+  Luego, la condición se vuelve a evaluar y, si aún es verdadera, el código se repite. 
+  Esto continúa hasta que la condición sea falsa, momento en el que el bucle se detiene.
+
+- Es útil cuando no sabes de antemano cuántas veces se repetirá el bucle y depende de una condición para decidir si se ejecuta o no.
+
+
+
+-------------
+| Bucle for |
+-------------
+La estructura básica de un bucle "for" es la siguiente:
+
+
+for (inicialización; condición; actualización) {
+    // Código a repetir
+}
+
+
+- En un bucle "for", la inicialización se ejecuta una vez al principio, luego se verifica la condición. Si la condición es verdadera, el código dentro del bucle se ejecuta. 
+  Luego, se realiza la actualización y la condición se vuelve a verificar. Esto se repite hasta que la condición sea falsa.
+
+- Los bucles "for" son útiles cuando se conoce de antemano cuántas veces se repetirá el bucle y se necesita un control preciso sobre la inicialización, condición y actualización.
+
+
+
+---------------
+| Explicación |
+---------------
+En resumen, la principal diferencia entre "while" y "for" radica en cómo se estructuran y cuándo son más apropiados:
+
+- While se utiliza cuando no se conoce de antemano cuántas veces se repetirá el bucle y depende de una condición.
+
+- For se utiliza cuando se conoce de antemano cuántas veces se repetirá el bucle y se necesita un control más preciso sobre la inicialización, condición y actualización.

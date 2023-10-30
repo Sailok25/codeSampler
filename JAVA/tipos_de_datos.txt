@@ -1,0 +1,23 @@
+CONDICIÓN            | TIPO DE DATO
+---------------------|-----------------
+Edad                 | Entero
+Código Postal        | Entero cadena
+Altura               | Doble
+Género               | Booleano / Carácter (valores: H = Hombre, D = Mujer)
+Nombre               | Cadena
+Número de Hijos      | Entero
+IVA                  | Doble (valores: % a aplicar)
+Talla de Camisa      | Entero (valores numéricos)
+Peso                 | Doble
+Precio               | Doble
+Alumno Repetidor     | Booleano (valores: SÍ/NO)
+Mensaje              | Cadena
+Letra                | Carácter
+Mayor de Edad        | Booleano
+Minutos              | Doble / Entero
+Días                 | Cadena
+Matrícula de Coche   | Cadena
+Contador Segundos    | Doble / Entero
+Mayor Edad           | Booleano (valores: cierto/falso)
+Talla de Camiseta    | Cadena (valores: S, L, XL...)
+

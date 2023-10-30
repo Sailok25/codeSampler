@@ -1,0 +1,27 @@
+En Java, la clase Scanner se utiliza para leer datos de entrada del usuario o de otros flujos de entrada, como archivos. 
+Scanner es una clase versátil que proporciona varios métodos para leer diferentes tipos de datos. 
+
+/* Scanner sc = Scanner(System.in // sc = nombre del escaner */
+
+1. Lectura de texto (String): Para leer una línea de texto, se usa nextLine().
+	Scanner sc = new Scanner(System.in);
+	String texto = sc.nextLine();
+
+
+2. Lectura de enteros (int): Para leer un valor entero, se usa nextInt().
+	Scanner sc = new Scanner(System.in);
+	int numero = sc.nextInt();
+
+
+3. Lectura de números decimales (double): Para leer un número decimal, se usa nextDouble().
+	Scanner sc = new Scanner(System.in);
+	double decimal = sc.nextDouble();
+
+4. Lectura de caracteres (char): Para leer un carácter, se usa next().charAt(0).
+	Scanner sc = new Scanner(System.in);
+	char caracter = sc.next().charAt(0);
+
+
+5. Lectura de booleanos (boolean): Para leer un valor booleano, se usa nextBoolean().
+	Scanner sc = new Scanner(System.in);
+	boolean esVerdadero = sc.nextBoolean();

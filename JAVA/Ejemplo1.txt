@@ -1,0 +1,36 @@
+------------------
+| TIPOS DE DATOS |
+------------------
+
+int (Entero): Representa números enteros, es decir, números sin parte decimal, positivos o negativos.
+
+char (Carácter): Almacena un carácter individual, como una letra, un número o un símbolo.
+
+string (Cadena): Contiene una secuencia de caracteres que forman una cadena de texto, como palabras o frases.
+
+boolean (Booleano): Puede tener solo dos valores posibles, verdadero (true) o falso (false), utilizado para expresar lógica booleana.
+
+double (Doble): Representa números con decimales de precisión doble, lo que significa que pueden manejar valores decimales con alta precisión.
+
+float (Flotante): Similar a "double", pero representa números con decimales de precisión simple. Menos preciso que "double", pero ocupa menos memoria.
+
+long (Largo): Almacena números enteros más grandes que "int". Se utiliza cuando se necesita una capacidad mayor para números enteros.
+
+byte (Byte): Representa números enteros muy pequeños en un rango limitado. Se utiliza cuando se necesita conservar memoria.
+
+short (Corto): Almacena números enteros más pequeños que "int" pero más grandes que "byte". Útil cuando se necesita un rango medio.
+
+array (Arreglo): Contiene una colección de elementos del mismo tipo de datos, permitiendo el almacenamiento y acceso a múltiples valores de la misma categoría.
+
+object (Objeto): Representa un objeto genérico y puede contener cualquier tipo de datos. Es la base de la programación orientada a objetos.
+
+enum (Enumeración): Define un conjunto de constantes con nombres simbólicos, lo que facilita la lectura y el mantenimiento del código.
+
+struct (Estructura): Agrupa varios campos o variables bajo un solo nombre, lo que facilita el manejo de datos estructurados.
+
+decimal (Decimal): Almacena números de punto fijo, especialmente útil en cálculos financieros donde se requiere alta precisión decimal.
+
+date (Fecha): Representa una fecha específica con información sobre día, mes y año.
+
+time (Tiempo): Almacena una hora específica, incluyendo horas, minutos, segundos y milisegundos.
+

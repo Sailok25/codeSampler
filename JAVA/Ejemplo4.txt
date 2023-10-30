@@ -1,0 +1,96 @@
+---------------------
+| Codigos basicos 2 |
+---------------------
+
+4. Entrada y salida básica:
+---------------------------------------------
+import java.util.Scanner;
+
+public class EntradaSalida {
+    public static void main(String[] args) {
+        // Crea un objeto Scanner para leer la entrada del teclado
+        Scanner lectura = new Scanner(System.in);
+
+        // Lee un número entero desde el teclado
+        System.out.print("Ingresa un número entero: ");
+        int numero = lectura.nextInt();
+
+        // Lee una cadena desde el teclado
+        System.out.print("Ingresa tu nombre: ");
+        String nombre = lectura.next();
+
+        // Mustrar los valores ingresados
+        System.out.println("Número ingresado: " + numero);
+        System.out.println("Hola, " + nombre);
+
+        scanner.close();
+    }
+}
+---------------------------------------------
+INFO:
+import java.util.Scanner;: Importa la clase/recurso Scanner para la entrada de teclado.
+Scanner scanner = new Scanner(System.in);: Crea un objeto Scanner para leer desde el teclado. `Lectura` es el nombre que le damos al objeto Scanner. 
+nextInt(): Lee un número entero (int) ingresado por el usuario.
+next(): Lee una cadena (string) ingresada por el usuario.
+System.out.println(): Muestra mensajes en la consola.
+scanner.close(); Cierra el objeto Scanner
+
+
+<-><-><->
+
+
+5. Bucles (for loop):
+---------------------------------------------
+public class BucleFor {
+    public static void main(String[] args) {
+        // Imprime números del 1 al 5
+        for (int i = 1; i <= 5; i++) {
+            System.out.println(i);
+        }
+    }
+} 
+---------------------------------------------
+INFO:
+for (int i = 1; i <= 5; i++) { ... }: Instrucción de bucle que imprime los números del 1 al 5.
+int i = 1;: Inicializa una variable con nombre `i` y a esta le da un valor de 1.
+i <= 5;: Condición que debe cumplirse para continuar en el bucle.
+i++: Incrementa el valor de `i` en 1 en cada iteración.
+(iteración = es el proceso de repetir una secuencia de operaciones o acciones)
+
+
+<-><-><->
+
+
+6. Arreglos (Arrays):
+---------------------------------------------
+public class Arreglo {
+    public static void main(String[] args) {
+
+        int[] numeros = {1, 2, 3, 4, 5};
+
+        for (int i = 0; i < numeros.length; i++) {
+            System.out.println("Elemento " + i + ": " + numeros[i]);
+        }
+    }
+}
+---------------------------------------------
+INFO:
+public class Arreglo {: Define una clase llamada `Arreglo`. En Java, el nombre de la clase debe coincidir con el nombre del archivo fuente.
+
+public static void main(String[] args) {: Esto define el método main, que es el punto de entrada de un programa Java. El código dentro de este método se ejecutará cuando se inicie el programa.
+
+int[] numeros = {1, 2, 3, 4, 5};: En esta línea, se declara e inicializa un arreglo de enteros llamado numeros. Contiene los valores 1, 2, 3, 4 y 5.
+
+for (int i = 0; i < numeros.length; i++) {: Esto inicia un bucle `for`. La variable `i` se declara e inicializa en 0, y el bucle se repetirá mientras `i` sea menor que la longitud del arreglo `numeros`.
+System.out.println("Elemento " + i + ": " + numeros[i]);: En cada iteración del bucle, se imprime el índice `i` (que representa la posición en el arreglo) y el valor correspondiente en numeros[i]. Esto muestra el contenido del arreglo y el índice de cada elemento.
+
+El bucle se ejecuta cinco veces, una vez para cada elemento en el arreglo, y muestra en la consola:
+-------------
+Elemento 0: 1
+Elemento 1: 2
+Elemento 2: 3
+Elemento 3: 4
+Elemento 4: 5
+--------------
+El código recorre el arreglo numeros, accediendo a cada elemento mediante su 
+índice (0, 1, 2, 3, 4) y lo muestra junto con su posición en el arreglo.
