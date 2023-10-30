@@ -1,11 +1,11 @@
 <!-- LOGO INICIO -->
 <section id= "top">
 <div align="center">
-  <img src="codeSampler.png" alt="Logo">
+  <img src="img_readme/codeSampler.png" alt="Logo">
 </div>
 <div align="center">
    <a href="https://github.com/Sailok25">
-    <img src="by.png" alt="bysailok" width=150>
+    <img src="img_readme/by.png" alt="bysailok" width=150>
     </a>
 </div>
 </br>
