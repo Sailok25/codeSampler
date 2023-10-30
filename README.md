@@ -1,7 +1,7 @@
 <!-- LOGO PRESENTATION -->
 <section id= "top">
 <div align="center">
-  <img src="html.png" alt="Logo">
+  <img src="codeSampler.png" alt="Logo">
 </div>
 <div align="center">
    <a href="https://github.com/Sailok25">
