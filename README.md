@@ -19,12 +19,12 @@
 
 ## Índice del Repositorio - 📑
 1. Lenguaje de marcas
-    * <a href="html">HTML</a>
+    * <a href="#HTML">HTML</a>
 2. Lenguaje de estilos
-    * <a href="html">CSS</a>
+    * <a href="#CSS">CSS</a>
 3. Lenguaje de programación
-    * <a href="html">Java</a>
-    * <a href="html">Python</a>
+    * <a href="#Java">Java</a>
+    * <a href="#Python">Python</a>
 <br>
 <br>
 <br>
