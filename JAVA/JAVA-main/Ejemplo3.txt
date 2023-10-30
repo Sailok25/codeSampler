@@ -1,0 +1,69 @@
+---------------------
+| Codigos basicos 1 |
+---------------------
+
+Configuración del Entorno de Desarrollo:
+- Asegurarnos de tener Java JDK instalado en el dispositivo.
+- Configur una IDE como Eclipse o Visual Studio Code para escribir y ejecutar código Java.
+
+
+1. Hola Mundo / Hello World:
+- Crear un programa "Hola Mundo" en Java. Este es el primer paso para aprender cualquier lenguaje de programación.
+---------------------------------------------
+public class HolaMundo {
+    public static void main(String[] args) {
+        System.out.println("¡Hola, mundo!");
+    }
+}
+---------------------------------------------
+INFO:
+- public class HolaMundo: Define una clase pública llamada HolaMundo.
+- public static void main(String[] args): Define el método principal (main) que es el punto de entrada de la aplicación.
+- System.out.println("¡Hola, Mundo!");: Imprime "¡Hola, Mundo!" en la consola.
+
+
+<-><-><->
+
+
+2. Variables y tipos de datos:
+- Conocer sobre los tipos de datos básicos en Java, como int, double, char, string y boolean.
+- Declarar variables y asignar de valores.
+---------------------------------------------
+int edad = 25;
+double precio = 19.99;
+String nombre = "Juan";
+---------------------------------------------
+INFO:
+int edad = 25;: Declara e inicializa una variable entera llamada edad con el valor 25.
+double precio = 19.99;: Declara e inicializa una variable de punto flotante llamada precio con el valor 19.99.
+String nombre = "Juan";: Declara e inicializa una variable de cadena llamada nombre con el valor "Juan".
+(Variable de punto flotante: dato que puede ser representado como decimal o fraccional. Normalmente: float y double)
+
+
+<-><-><->
+
+
+3. Estructura de control - If:
+---------------------------------------------
+public class control {
+    public static void main(String[] args) {
+	int numero = 10;
+
+	if (numero > 5) {
+    	// Este trozo de codigo se ejecutará si 'numero' es mayor que 5
+   		System.out.println("El número es mayor que 5");
+	} else {
+    	// Este bloque se ejecutará si 'numero' no es mayor que 5
+    		System.out.println("El número no es mayor que 5");
+	}
+
+    }
+}
+---------------------------------------------
+INFO:
+int numero = 10;: Declara e inicializa una variable entera llamada numero con el valor 10.
+if (numero > 5) { ... }: Verifica si numero es mayor que 5.
+System.out.println("El número es mayor que 5");: Imprime un mensaje si la condición es verdadera.
+else { ... }: Trozo de codigo, que se ejecuta si la condición en `if` es falsa.
+System.out.println("El número no es mayor que 5");: Imprime un mensaje si la condición en `if` es falsa.
+
