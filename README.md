@@ -27,13 +27,13 @@
     * Python
 
 <p align="center">
-  <img src="lenguajedemarcas.png" alt="Lenguaje de Marcas">
+  <img src="img_readme/lenguajedemarcas.png" alt="Lenguaje de Marcas">
 </p>
 
 <br>
 
 <p align="left">
-  <img src="HTML.png" alt="HTML">
+  <img src="img_readme/HTML.png" alt="HTML">
 </p>
 
 
@@ -62,13 +62,13 @@
 <br>
 
 <p align="center">
-  <img src="lenguajedeestilos.png" alt="Lenguaje de Estilos">
+  <img src="img_readme/lenguajedeestilos.png" alt="Lenguaje de Estilos">
 </p>
 
 <br>
 
 <p align="left">
-  <img src="CSS.png" alt="CSS">
+  <img src="img_readme/CSS.png" alt="CSS">
 </p>
 1. EJEMPLOS
     * [...](https://github.com/Sailok25/HTML/blob/main/Ejemplo1.html)
@@ -99,13 +99,13 @@
 <br>
 
 <p align="center">
-  <img src="lenguajedeprogramacion.png" alt="Lenguaje de Programación">
+  <img src="img_readme/lenguajedeprogramacion.png" alt="Lenguaje de Programación">
 </p>
 
 <br>
 
 <p align="left">
-  <img src="Java.png" alt="Java">
+  <img src="img_readme/Java.png" alt="Java">
 </p>
 
 1. EJEMPLOS
@@ -147,7 +147,7 @@
 <br>
 
 <p align="left">
-  <img src="Python.png" alt="Python">
+  <img src="img_readme/Python.png" alt="Python">
 </p>
 
 <br>
