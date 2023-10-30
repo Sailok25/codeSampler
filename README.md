@@ -17,7 +17,7 @@
 
 </br>
 
-## Índice del Repositorio
+## Índice del Repositorio - 📑
 1. Lenguaje de marcas
     * HTML
 2. Lenguaje de estilos
@@ -35,10 +35,6 @@
 <p align="left">
   <img src="HTML.png" alt="HTML">
 </p>
-
-<br>
-
-## Índice de contenidos HTML - 📑
 1. EJEMPLOS
     * [Etiquetas Basicas](https://github.com/Sailok25/HTML/blob/main/Ejemplo1.html)
     * [Etiquetas Tablas](https://github.com/Sailok25/HTML/blob/main/Ejemplo2.html)
@@ -72,6 +68,31 @@
 <p align="left">
   <img src="CSS.png" alt="CSS">
 </p>
+1. EJEMPLOS
+    * ...: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejemplo1.html)
+    * ...: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejemplo2.html)
+    * ...: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejemplo3.html)
+      
+2. EJERCICIOS
+    * [Como se usa 01](https://github.com/Sailok25/HTML/blob/main/Ejercicio1.html)
+    * [Como se usa 02](https://github.com/Sailok25/HTML/blob/main/Ejercicio2.html)
+    * [Como se usa 03](https://github.com/Sailok25/HTML/blob/main/Ejercicio3.html)
+    * [Estilo lista 01](https://github.com/Sailok25/HTML/blob/main/Ejercicio4.html)
+    * [Estilo lista 02](https://github.com/Sailok25/HTML/blob/main/Ejercicio5.html)
+    * [Modelo caja 01](https://github.com/Sailok25/HTML/blob/main/Ejercicio6.html)
+    * [Modelo caja 02](https://github.com/Sailok25/HTML/blob/main/Ejercicio7.html)
+    * [Maquetacion diseño fijo](https://github.com/Sailok25/HTML/blob/main/Ejercicio8.html)
+    * [Maquetacion diseño elástico](https://github.com/Sailok25/HTML/blob/main/Ejercicio9.html)
+    * [Maquetacion diseño líquido](https://github.com/Sailok25/HTML/blob/main/Ejercicio10.html)
+    * [Maquetacion formulario 01](https://github.com/Sailok25/HTML/blob/main/Ejercicio11.html)
+    * [Maquetacion formulario 02](https://github.com/Sailok25/HTML/blob/main/Ejercicio12.html)
+    * [Selectores avanzados 01](https://github.com/Sailok25/HTML/blob/main/Ejercicio13.html)
+    * [Selectores avanzados 02](https://github.com/Sailok25/HTML/blob/main/Ejercicio14.html)
+    * [Estilo texto 01](https://github.com/Sailok25/HTML/blob/main/Ejercicio15.html)
+    * [Estilo texto 02](https://github.com/Sailok25/HTML/blob/main/Ejercicio16.html)
+    * [Estilo texto 03](https://github.com/Sailok25/HTML/blob/main/Ejercicio17.html)
+    * [Maquetación diseño adaptable 01](https://github.com/Sailok25/HTML/blob/main/Ejercicio18.html)
+    * [Maquetación diseño adaptable 02](https://github.com/Sailok25/HTML/blob/main/Ejercicio19.html)
 
 <br>
 
@@ -94,10 +115,10 @@
 <br>
 
 ## Agradecimientos - ⚜️
-* Ejercicios de referencia: [enlace](http://desarrolloweb.dlsi.ua.es/libros/html-css/ejercicios)
-* INS Alfons Costafreda: [enlace](https://www.insalfonscostafreda.cat/)
-* Font Space: [enlace](https://www.fontspace.com/)
-* W3Schools: [enlace](https://www.w3schools.com/)
-* ChatGPT: [enlace](https://chat.openai.com)
+* [Ejercicios de referencia](http://desarrolloweb.dlsi.ua.es/libros/html-css/ejercicios)
+* [INS Alfons Costafreda](https://www.insalfonscostafreda.cat/)
+* [Font Space](https://www.fontspace.com/)
+* [W3Schools](https://www.w3schools.com/)
+* [ChatGPT](https://chat.openai.com)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
