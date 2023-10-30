@@ -71,9 +71,9 @@
   <img src="CSS.png" alt="CSS">
 </p>
 1. EJEMPLOS
-    * ...: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejemplo1.html)
-    * ...: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejemplo2.html)
-    * ...: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejemplo3.html)
+    * [...](https://github.com/Sailok25/HTML/blob/main/Ejemplo1.html)
+    * [...](https://github.com/Sailok25/HTML/blob/main/Ejemplo2.html)
+    * [...](https://github.com/Sailok25/HTML/blob/main/Ejemplo3.html)
       
 2. EJERCICIOS
     * [Como se usa 01](https://github.com/Sailok25/HTML/blob/main/Ejercicio1.html)
