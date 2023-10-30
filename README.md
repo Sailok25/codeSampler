@@ -19,12 +19,12 @@
 
 ## Índice del Repositorio - 📑
 1. Lenguaje de marcas
-    * HTML
+    * <a href="html">HTML</a>
 2. Lenguaje de estilos
-    * CSS
+    * <a href="html">CSS</a>
 3. Lenguaje de programación
-    * JAVA
-    * Python
+    * <a href="html">Java</a>
+    * <a href="html">Python</a>
 <br>
 <br>
 <br>
@@ -36,6 +36,7 @@
 
 <br>
 
+<section id= "html">
 <p align="left">
   <img src="img_readme/HTML.png" alt="HTML">
 </p>
@@ -77,6 +78,7 @@
 
 <br>
 
+<section id= "CSS">
 <p align="left">
   <img src="img_readme/CSS.png" alt="CSS">
 </p>
@@ -120,6 +122,7 @@
 
 <br>
 
+<section id= "Java">
 <p align="left">
   <img src="img_readme/Java.png" alt="Java">
 </p>
@@ -167,6 +170,7 @@
 <br>
 <br>
 
+<section id= "Python">
 <p align="left">
   <img src="img_readme/Python.png" alt="Python">
 </p>
