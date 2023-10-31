@@ -82,10 +82,11 @@
 <p align="left">
   <img src="img_readme/CSS.png" alt="CSS">
 </p>
+
 1. EJEMPLOS
-    * [...](https://github.com/Sailok25/HTML/blob/main/Ejemplo1.html)
-    * [...](https://github.com/Sailok25/HTML/blob/main/Ejemplo2.html)
-    * [...](https://github.com/Sailok25/HTML/blob/main/Ejemplo3.html)
+    * [Ejemplo 01](https://github.com/Sailok25/HTML/blob/main/Ejemplo1.html)
+    * [Ejemplo 02](https://github.com/Sailok25/HTML/blob/main/Ejemplo2.html)
+    * [Ejemplo 03](https://github.com/Sailok25/HTML/blob/main/Ejemplo3.html)
       
 2. EJERCICIOS
     * [Como se usa 01](https://github.com/Sailok25/HTML/blob/main/Ejercicio1.html)
