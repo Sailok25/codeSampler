@@ -43,26 +43,26 @@
 
 
 1. EJEMPLOS
-    * [Conceptos Basicos 01](https://github.com/Sailok25/HTML/blob/main/Ejemplo1.html)
-    * [Conceptos Basicos 02](https://github.com/Sailok25/HTML/blob/main/Ejemplo2.html)
-    * [Conceptos Basicos 03](https://github.com/Sailok25/HTML/blob/main/Ejemplo3.html)
+    * Etiquetas Basicas: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejemplo1.html)
+    * Etiquetas Tablas: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejemplo2.html)
+    * Etiquetas Formulario [enlace](https://github.com/Sailok25/HTML/blob/main/Ejemplo3.html)
       
 2. EJERCICIOS
-    * [Conceptos Basicos 01](https://github.com/Sailok25/HTML/blob/main/Ejercicio1.html)
-    * [Conceptos Basicos 02](https://github.com/Sailok25/HTML/blob/main/Ejercicio2.html)
-    * [Conceptos Basicos 03](https://github.com/Sailok25/HTML/blob/main/Ejercicio3.html)
-    * [Conceptos Basicos 04](https://github.com/Sailok25/HTML/blob/main/Ejercicio4.html)
-    * [Conceptos Basicos 05](https://github.com/Sailok25/HTML/blob/main/Ejercicio5.html)
-    * [Enlaces](https://github.com/Sailok25/HTML/blob/main/Ejercicio6.html)
-    * [Listas 01](https://github.com/Sailok25/HTML/blob/main/Ejercicio7.html)
-    * [Listas 02](https://github.com/Sailok25/HTML/blob/main/Ejercicio8.html)
-    * [Formularios 01](https://github.com/Sailok25/HTML/blob/main/Ejercicio9.html)
-    * [Formularios 02](https://github.com/Sailok25/HTML/blob/main/Ejercicio10.html)
-    * [Formularios 03](https://github.com/Sailok25/HTML/blob/main/Ejercicio11.html)
-    * [Formularios 04](https://github.com/Sailok25/HTML/blob/main/Ejercicio15.html)
-    * [Tablas 01](https://github.com/Sailok25/HTML/blob/main/Ejercicio12.html)
-    * [Tablas 02](https://github.com/Sailok25/HTML/blob/main/Ejercicio13.html)
-    * [Tablas 03](https://github.com/Sailok25/HTML/blob/main/Ejercicio14.html)
+    * Conceptos Basicos 01: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejercicio1.html)
+    * Conceptos Basicos 02: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejercicio2.html)
+    * Conceptos Basicos 03: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejercicio3.html)
+    * Conceptos Basicos 04: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejercicio4.html)
+    * Conceptos Basicos 05: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejercicio5.html)
+    * Enlaces: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejercicio6.html)
+    * Listas 01: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejercicio7.html)
+    * Listas 02: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejercicio8.html)
+    * Formularios 01: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejercicio9.html)
+    * Formularios 02: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejercicio10.html)
+    * Formularios 03: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejercicio11.html)
+    * Formularios 04: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejercicio15.html)
+    * Tablas 01: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejercicio12.html)
+    * Tablas 02: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejercicio13.html)
+    * Tablas 03: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejercicio14.html)
 
 <br>
 <br>
