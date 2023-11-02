@@ -82,6 +82,7 @@
 <p align="left">
   <img src="img_readme/CSS.png" alt="CSS">
 </p>
+  
 1. EJEMPLOS
     * Etiquetas Basicas: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejemplo1.html)
     * Etiquetas Tablas: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejemplo2.html)
