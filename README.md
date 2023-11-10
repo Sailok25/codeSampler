@@ -84,7 +84,7 @@
 </p>
   
 1. EJEMPLOS
-    * Etiquetas Basicas: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejemplo1.html)
+    * Etiquetas Seleccionadors: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejemplo1.html)
     * Etiquetas Tablas: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejemplo2.html)
     * Etiquetas Formulario [enlace](https://github.com/Sailok25/HTML/blob/main/Ejemplo3.html)
       
