@@ -43,9 +43,9 @@
 
 
 1. EJEMPLOS
-    * Etiquetas Basicas: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejemplo1.html)
-    * Etiquetas Tablas: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejemplo2.html)
-    * Etiquetas Formulario [enlace](https://github.com/Sailok25/HTML/blob/main/Ejemplo3.html)
+    * Etiquetas Basicas: [enlace](https://github.com/Sailok25/codeSampler/blob/main/HTML/ejemplos/Ejemplo1.html)
+    * Etiquetas Tablas: [enlace](https://github.com/Sailok25/codeSampler/blob/main/HTML/ejemplos/Ejemplo2.html)
+    * Etiquetas Formulario [enlace](https://github.com/Sailok25/codeSampler/blob/main/HTML/ejemplos/Ejemplo3.html)
       
 2. EJERCICIOS
     * Conceptos Basicos 01: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejercicio1.html)
