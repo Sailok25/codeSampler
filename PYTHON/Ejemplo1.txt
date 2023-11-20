@@ -1,0 +1,94 @@
+-------------------------
+| Ejemplo 1: Hola Mundo |
+-------------------------
+
+print("¡Hola, mundo!")
+
+Este es un programa simple en Python que imprime "¡Hola, mundo!" en la consola. La función print() se utiliza para mostrar texto en la pantalla.
+
+
+
+
+-----------------------------------------
+| Ejemplo 2: Variables y Tipos de Datos |
+-----------------------------------------
+
+# Declarar una variable
+nombre = "Juan"
+
+# Variables numéricas
+edad = 25
+altura = 1.75
+
+# Mostrar variables
+print(nombre)
+print(edad)
+print(altura)
+
+Las variables se utilizan para almacenar datos. Python admite diferentes tipos de datos, como cadenas (strings), números enteros (integers) y números de punto flotante (float).
+
+
+
+
+---------------------------------
+| Ejemplo 3: Operadores Básicos |
+---------------------------------
+# Operaciones aritméticas
+a = 5
+b = 3
+suma = a + b
+resta = a - b
+multiplicacion = a * b
+division = a / b
+
+# Operaciones de cadena
+cadena1 = "Hola"
+cadena2 = "Mundo"
+concatenacion = cadena1 + " " + cadena2
+
+Puedes realizar operaciones matemáticas y manipular cadenas de texto con operadores.
+
+
+
+
+-------------------------------------
+| Ejemplo 4: Estructuras de Control |
+-------------------------------------
+
+# Declaración if
+edad = 18
+if edad >= 18:
+    print("Eres mayor de edad")
+else:
+    print("Eres menor de edad")
+
+# Bucle while
+contador = 0
+while contador < 5:
+    print(contador)
+    contador += 1
+
+# Bucle for
+for i in range(5):
+    print(i)
+
+Las estructuras de control, como if, while y for, te permiten tomar decisiones y repetir tareas en tu programa.
+
+
+
+
+------------------------
+| Ejemplo 5: Funciones |
+------------------------
+
+# Definir una función
+def saludar(nombre):
+    return "¡Hola, " + nombre + "!"
+
+# Llamar a la función
+mensaje = saludar("Ana")
+print(mensaje)
+
+Las funciones te permiten encapsular bloques de código que puedes reutilizar.
+
+Estas son algunas lecciones básicas para comenzar con Python. A medida que te familiarices con estos conceptos, podrás explorar temas más avanzados como listas, diccionarios, módulos, clases y mucho más. ¡No dudes en hacer preguntas o pedir más información sobre un tema específico!
