@@ -19,12 +19,12 @@
 
 ## Índice del Repositorio - 📑
 1. Lenguaje de marcas
-    * <a href="#HTML">HTML</a>
+    * [HTML](#HTML)
 2. Lenguaje de estilos
-    * <a href="#CSS">CSS</a>
+    * [CSS](#CSS)
 3. Lenguaje de programación
-    * <a href="#Java">Java</a>
-    * <a href="#Python">Python</a>
+    * [Java](#Java)
+    * [Python](#Python)
 <br>
 <br>
 <br>
@@ -41,28 +41,10 @@
   <img src="img_readme/HTML.png" alt="HTML">
 </p>
 
-
-1. EJEMPLOS
-    * Etiquetas Basicas: [enlace](https://github.com/Sailok25/codeSampler/blob/main/HTML/ejemplos/Ejemplo1.html)
-    * Etiquetas Tablas: [enlace](https://github.com/Sailok25/codeSampler/blob/main/HTML/ejemplos/Ejemplo2.html)
-    * Etiquetas Formulario [enlace](https://github.com/Sailok25/codeSampler/blob/main/HTML/ejemplos/Ejemplo3.html)
-      
-2. EJERCICIOS
-    * Conceptos Basicos 01: [enlace](https://github.com/Sailok25/codeSampler/blob/main/HTML/ejercicios/Ejercicio1.html)
-    * Conceptos Basicos 02: [enlace](https://github.com/Sailok25/codeSampler/blob/main/HTML/ejercicios/Ejercicio2.html)
-    * Conceptos Basicos 03: [enlace](https://github.com/Sailok25/codeSampler/blob/main/HTML/ejercicios/Ejercicio3.html)
-    * Conceptos Basicos 04: [enlace](https://github.com/Sailok25/codeSampler/blob/main/HTML/ejercicios/Ejercicio4.html)
-    * Conceptos Basicos 05: [enlace](https://github.com/Sailok25/codeSampler/blob/main/HTML/ejercicios/Ejercicio5.html)
-    * Enlaces: [enlace](https://github.com/Sailok25/codeSampler/blob/main/HTML/ejercicios/Ejercicio6.html)
-    * Listas 01: [enlace](https://github.com/Sailok25/codeSampler/blob/main/HTML/ejercicios/Ejercicio7.html)
-    * Listas 02: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejercicio8.html)
-    * Formularios 01: [enlace](https://github.com/Sailok25/codeSampler/blob/main/HTML/ejercicios/Ejercicio9.html)
-    * Formularios 02: [enlace](https://github.com/Sailok25/codeSampler/blob/main/HTML/ejercicios/Ejercicio10.html)
-    * Formularios 03: [enlace](https://github.com/Sailok25/codeSampler/blob/main/HTML/ejercicios/Ejercicio11.html)
-    * Formularios 04: [enlace](https://github.com/Sailok25/codeSampler/blob/main/HTML/ejercicios/Ejercicio15.html)
-    * Tablas 01: [enlace](https://github.com/Sailok25/codeSampler/blob/main/HTML/ejercicios/Ejercicio12.html)
-    * Tablas 02: [enlace](https://github.com/Sailok25/codeSampler/blob/main/HTML/ejercicios/Ejercicio13.html)
-    * Tablas 03: [enlace](https://github.com/Sailok25/codeSampler/blob/main/HTML/ejercicios/Ejercicio14.html)
+### 1. EJEMPLOS
+   * [Ejemplos HTML](https://github.com/Sailok25/codeSampler/tree/main/HTML/ejemplos)
+### 2. EJERCICIOS
+   * [Ejercicios HTML](https://github.com/Sailok25/codeSampler/tree/main/HTML/ejercicios)
 
 <br>
 <br>
@@ -82,28 +64,11 @@
 <p align="left">
   <img src="img_readme/CSS.png" alt="CSS">
 </p>
-  
-1. EJEMPLOS
-    * Etiquetas Seleccionadors: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejemplo1.html)
-    * Etiquetas Tablas: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejemplo2.html)
-    * Etiquetas Formulario [enlace](https://github.com/Sailok25/HTML/blob/main/Ejemplo3.html)
-      
-2. EJERCICIOS
-    * Conceptos Basicos 01: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejercicio1.html)
-    * Conceptos Basicos 02: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejercicio2.html)
-    * Conceptos Basicos 03: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejercicio3.html)
-    * Conceptos Basicos 04: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejercicio4.html)
-    * Conceptos Basicos 05: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejercicio5.html)
-    * Enlaces: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejercicio6.html)
-    * Listas 01: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejercicio7.html)
-    * Listas 02: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejercicio8.html)
-    * Formularios 01: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejercicio9.html)
-    * Formularios 02: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejercicio10.html)
-    * Formularios 03: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejercicio11.html)
-    * Formularios 04: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejercicio15.html)
-    * Tablas 01: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejercicio12.html)
-    * Tablas 02: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejercicio13.html)
-    * Tablas 03: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejercicio14.html)
+
+### 1. EJEMPLOS
+   * [Ejemplos CSS](https://github.com/Sailok25/codeSampler/tree/main/CSS/ejemplos)
+### 2. EJERCICIOS
+   * [Ejercicios CSS](https://github.com/Sailok25/codeSampler/tree/main/CSS/ejercicios)
 
 <br>
 <br>
@@ -124,41 +89,14 @@
   <img src="img_readme/Java.png" alt="Java">
 </p>
 
-1. EJEMPLOS
-    * [Tipos de datos](https://github.com/Sailok25/JAVA/blob/main/Ejemplo1.txt)
-    * [El pseudocodigo](https://github.com/Sailok25/JAVA/blob/main/Ejemplo2.txt)
-    * [Codigos basicos 1](https://github.com/Sailok25/JAVA/blob/main/Ejemplo3.txt)
-    * [Codigos basicos 2](https://github.com/Sailok25/JAVA/blob/main/Ejemplo4.txt)
-    * [Bucles While & For](https://github.com/Sailok25/JAVA/blob/main/Ejemplo5.txt)
-    * [Tipos de Scanner](https://github.com/Sailok25/JAVA/blob/main/Ejemplo6.txt)
-      
-2. EJERCICIOS CLASE
-    * [E1 - Hola Mundo](https://github.com/Sailok25/JAVA/blob/main/eje1.java)
-    * [E2 - Condicional Doble](https://github.com/Sailok25/JAVA/blob/main/eje2.java)
-    * [E3 - Condicional Compost](https://github.com/Sailok25/JAVA/blob/main/eje3.java)
-    * [E4 - Contador "For"](https://github.com/Sailok25/JAVA/blob/main/eje4.java)
-    * [E5 - Contador "While"](https://github.com/Sailok25/JAVA/blob/main/eje5.java)
-    * [E6 - Imprimir numero](https://github.com/Sailok25/JAVA/blob/main/eje6.java)
-    * [E7 - Suma de numeros](https://github.com/Sailok25/JAVA/blob/main/eje7.java)
-    * [E8 - Contestador automatico](https://github.com/Sailok25/JAVA/blob/main/eje8.java)
-    * [E9 - ...](https://github.com/Sailok25/JAVA/blob/main/eje9.java)
-    * [E10 - ...](https://github.com/Sailok25/JAVA/blob/main/eje10.java)
-    * [E11 - ...](https://github.com/Sailok25/JAVA/blob/main/eje11.java)
-    * [E12 - ...](https://github.com/Sailok25/JAVA/blob/main/eje12.java)
-  
-3. EJERCICIOS PERSONAL
-    * ... [enlace](https://github.com/Sailok25/JAVA/blob/main/Ejercicio1.java)
-
-4. EXAMEN
-    * [Exercici 1](https://github.com/Sailok25/JAVA/blob/main/examen/exercicis/src/exercici1.java)
-    * [Exercici 2](https://github.com/Sailok25/JAVA/blob/main/examen/exercicis/src/exercici2.java)
-    * [Exercici 3](https://github.com/Sailok25/JAVA/blob/main/examen/exercicis/src/exercici3.java)
-    * [Exercici 4](https://github.com/Sailok25/JAVA/blob/main/examen/exercicis/src/exercici4.java)
-    * [Exercici 5](https://github.com/Sailok25/JAVA/blob/main/examen/exercicis/src/exercici5.java)
-    * [Exercici 6](https://github.com/Sailok25/JAVA/blob/main/examen/exercicis/src/exercici6.java)
-    * [Exercici 7](https://github.com/Sailok25/JAVA/blob/main/examen/exercicis/src/exercici7.java)
-    * [Exercici 8-13](...)
-    * [Nota](https://github.com/Sailok25/JAVA/blob/main/examen/exercicis/src/nota.java)
+### 1. EJEMPLOS
+   * [Ejemplos Java](https://github.com/Sailok25/JAVA)
+### 2. EJERCICIOS CLASE
+   * [Ejercicios Java de Clase](https://github.com/Sailok25/JAVA/tree/main/ejercicios_clase)
+### 3. EJERCICIOS PERSONAL
+   * [Ejercicios Java Personales](https://github.com/Sailok25/JAVA/tree/main/ejercicios_personales)
+### 4. EXAMEN
+   * [Exámenes Java](https://github.com/Sailok25/JAVA/tree/main/examen/exercicis)
 
 <br>
 <br>
@@ -172,29 +110,10 @@
   <img src="img_readme/Python.png" alt="Python">
 </p>
 
-<br>
-
-1. EJEMPLOS
-    * Etiquetas Basicas: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejemplo1.html)
-    * Etiquetas Tablas: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejemplo2.html)
-    * Etiquetas Formulario [enlace](https://github.com/Sailok25/HTML/blob/main/Ejemplo3.html)
-      
-2. EJERCICIOS
-    * Conceptos Basicos 01: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejercicio1.html)
-    * Conceptos Basicos 02: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejercicio2.html)
-    * Conceptos Basicos 03: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejercicio3.html)
-    * Conceptos Basicos 04: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejercicio4.html)
-    * Conceptos Basicos 05: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejercicio5.html)
-    * Enlaces: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejercicio6.html)
-    * Listas 01: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejercicio7.html)
-    * Listas 02: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejercicio8.html)
-    * Formularios 01: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejercicio9.html)
-    * Formularios 02: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejercicio10.html)
-    * Formularios 03: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejercicio11.html)
-    * Formularios 04: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejercicio15.html)
-    * Tablas 01: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejercicio12.html)
-    * Tablas 02: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejercicio13.html)
-    * Tablas 03: [enlace](https://github.com/Sailok25/HTML/blob/main/Ejercicio14.html)
+### 1. EJEMPLOS
+   * [Ejemplos Python](https://github.com/Sailok25/Python)
+### 2. EJERCICIOS
+   * [Ejercicios Python](https://github.com/Sailok25/Python/tree/main/ejercicios)
 
 <br>
 
@@ -206,3 +125,4 @@
 * [ChatGPT](https://chat.openai.com)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
