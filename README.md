@@ -7,7 +7,7 @@
   <h3 align="center">By: Sailok</h3>
 
   <p align="center">
-    Repositorio con ejemplos y ejercicios de programación en varios lenguajes, como HTML, CSS, Java y Python. Lo utilizo para documentar mi aprendizaje y progreso en desarrollo.
+   Este repositorio es utilizado para documentar mi aprendizaje y progreso en desarrollo.
   </p>
   <br><br><br>
 </div>
